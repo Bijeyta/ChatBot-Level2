@@ -1,0 +1,16 @@
+{
+  "name": "chatbot-level-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.13.3",
+    "botbuilder-dialogs": "^4.13.3",
+    "restify": "^8.5.1"
+  }
+}
